@@ -1,0 +1,2045 @@
+[
+    {
+        "order_id": "23b8c1e9-3924-46de-beb1-3b9046685257",
+        "order_time": "2024-05-15T15:39:49.467000Z",
+        "evaluation_time": "2024-12-04T11:54:49.195330Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "972a8469-1641-4f82-8b9d-2434e465e150",
+        "order_time": "2024-05-15T15:45:43.620000Z",
+        "evaluation_time": "2024-12-04T11:54:49.195707Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+        "order_time": "2024-05-15T15:49:36.446000Z",
+        "evaluation_time": "2024-12-04T11:54:49.195832Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+        "order_time": "2024-05-15T15:59:24.852000Z",
+        "evaluation_time": "2024-12-04T11:54:49.195945Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+        "order_time": "2024-05-15T16:04:51.693000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196069Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "371ecd7b-27cd-4130-8722-9389571aa876",
+        "order_time": "2024-05-15T16:09:08.482000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196176Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "5be6128e-18c2-4797-a142-ea7d17be3111",
+        "order_time": "2024-05-15T16:26:52.544000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196282Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+        "order_time": "2024-05-15T16:32:30.859000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196393Z",
+        "f1_score": 0.5714285714285715,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 3
+    },
+    {
+        "order_id": "4b0dbb41-8d52-48f1-942c-3fe860e7a113",
+        "order_time": "2024-05-15T16:39:09.634000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196490Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "3139d32c-93cd-49bf-9c94-1cf0dc98d2c1",
+        "order_time": "2024-05-15T16:50:19.796000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196596Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "fc377a4c-4a15-444d-85e7-ce8a3a578a8e",
+        "order_time": "2024-05-15T16:59:37.993000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196708Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7412b293-4729-4739-a14f-f3d719db3ad0",
+        "order_time": "2024-05-15T17:04:18.310000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196814Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ab9099a4-35a2-40ae-9af3-05535ec42e08",
+        "order_time": "2024-05-15T17:21:36.660000Z",
+        "evaluation_time": "2024-12-04T11:54:49.196923Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a28defe3-9bf0-4273-9247-6f57a5e5a5ab",
+        "order_time": "2024-05-15T17:28:20.030000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197031Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "451b4cf3-6123-4df7-b656-af7229d4beef",
+        "order_time": "2024-05-15T17:36:07.584000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197127Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5304317f-af42-412f-b838-b3268e944239",
+        "order_time": "2024-05-15T17:47:32.040000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197233Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ce177b4e-0837-48a3-9261-a7ab3aa2e4f9",
+        "order_time": "2024-05-15T17:50:42.676000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197339Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9132b63e-f162-47e4-a9c3-49e03602f8ac",
+        "order_time": "2024-05-15T17:55:11.168000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197450Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "e27a984d-6548-41d0-bfcd-9eb1a7cad415",
+        "order_time": "2024-05-15T18:05:38.889000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197544Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "beb79919-3f22-4af8-a3be-d01d43cf2fde",
+        "order_time": "2024-05-15T18:09:10.182000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197646Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "956269f0-e5d7-4875-adad-d6c795a76d79",
+        "order_time": "2024-05-15T18:15:37.392000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197761Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7e570ddf-8270-40a8-a369-b584ff5e9ff0",
+        "order_time": "2024-05-15T18:19:25.191000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197871Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "28f49481-a0a0-4dc4-a720-9bdf1c11f735",
+        "order_time": "2024-05-15T18:23:40.461000Z",
+        "evaluation_time": "2024-12-04T11:54:49.197976Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "988c24c9-61b1-4d22-a280-1c4510435a10",
+        "order_time": "2024-05-16T14:14:50.389000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198079Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f143262f-dc5c-4eed-8da0-365bf89897b9",
+        "order_time": "2024-05-16T14:15:14.587000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198138Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c0398710-8976-4334-a281-7efdae849217",
+        "order_time": "2024-05-16T14:40:13.639000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198230Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "287d06ca-6f4c-469a-8b22-d3081c8eaee9",
+        "order_time": "2024-05-16T14:40:33.769000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198278Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f8cda88b-436d-46e2-b83c-fe0be037e5ed",
+        "order_time": "2024-05-16T14:40:48.867000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198310Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f",
+        "order_time": "2024-05-16T14:49:06.990000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198449Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5fb8d16c-2720-497d-b2eb-d6899be578c7",
+        "order_time": "2024-05-16T14:49:50.560000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198492Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "eb2263dd-87c5-421e-ac24-a3c5c754108f",
+        "order_time": "2024-05-16T14:49:38.210000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198521Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82",
+        "order_time": "2024-05-16T14:49:27.270000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198550Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3da9c2a9-0ed4-4f1a-bd4c-bf374eb93eff",
+        "order_time": "2024-05-16T14:56:16.161000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198642Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269",
+        "order_time": "2024-05-16T14:55:29.912000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198741Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a8e56e0c-20de-435d-a031-d750c40db9b4",
+        "order_time": "2024-05-16T15:06:01.350000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198863Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9b49bd26-df57-459a-8715-a10343dac043",
+        "order_time": "2024-05-16T15:06:20.849000Z",
+        "evaluation_time": "2024-12-04T11:54:49.198958Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "b09b2a5c-badc-432a-8159-0f538a0f4efb",
+        "order_time": "2024-05-16T15:14:57.592000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199006Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5f987c71-a65e-488e-abf3-ad39fec21bbe",
+        "order_time": "2024-05-16T15:15:07.705000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199183Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1064005c-3985-43cf-bf76-be1d1efa2197",
+        "order_time": "2024-05-16T15:14:39.898000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199212Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "01d74256-3860-4ab6-96a4-02f23ae8cc93",
+        "order_time": "2024-05-16T15:13:53.479000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199287Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "080aadfb-e7c9-4b26-9141-25c63a9bedd4",
+        "order_time": "2024-05-16T15:20:36.130000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199361Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7c441fe7-ab42-40a7-874a-493b3ceddf2d",
+        "order_time": "2024-05-16T15:20:03.830000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199392Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "93829b43-922f-415a-a1e3-db63ef7ddc76",
+        "order_time": "2024-05-16T15:24:10.940000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199457Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1825bc54-30be-445f-a835-14f2ceb81f9d",
+        "order_time": "2024-05-16T15:24:21.560000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199487Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "dd2467ac-778e-4db3-a93d-ffbc6c6fa611",
+        "order_time": "2024-05-16T15:31:02.660000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199556Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "0f844fef-1931-49ee-a56c-0941fbf24050",
+        "order_time": "2024-05-16T15:30:24.280000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199586Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "310c0c00-3fa7-4104-9bf9-0e27dc96925e",
+        "order_time": "2024-05-16T15:36:12.310000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199657Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "766ecb15-474e-4c19-aef9-12766c006f61",
+        "order_time": "2024-05-16T15:57:16.329000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199724Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "db20a56e-dc81-4fe7-8eda-8bbb71710434",
+        "order_time": "2024-05-16T15:56:08.829000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199800Z",
+        "f1_score": 0.8571428571428571,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "03c72ba8-d605-4770-8a63-f881ffd0f9d5",
+        "order_time": "2024-05-16T15:56:31.508000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199866Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "680ac07a-2a93-4d62-bc83-5dc0d9441fa5",
+        "order_time": "2024-05-16T15:55:25.740000Z",
+        "evaluation_time": "2024-12-04T11:54:49.199940Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "2a25a888-0f02-4ad0-a706-7ef466aa9385",
+        "order_time": "2024-05-16T15:56:52Z",
+        "evaluation_time": "2024-12-04T11:54:49.200011Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "c8fe3ccd-c8b8-49c6-ad30-49cf43e458fc",
+        "order_time": "2024-05-16T16:12:22.725000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200082Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "c88a618e-fed4-457d-bb02-6576f512c4c3",
+        "order_time": "2024-05-16T16:12:32.367000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200150Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "37bb3eec-4bf5-4b52-b09d-258c27a0c3d7",
+        "order_time": "2024-05-16T16:21:03.059000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200224Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "504867ba-bf7b-439b-8f9a-ea4b8acd4e10",
+        "order_time": "2024-05-16T16:21:19.743000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200254Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "87f7e1fb-da4b-49ca-ab5c-f46780bacd64",
+        "order_time": "2024-05-16T16:21:40.151000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200313Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "118a9d29-2f92-4996-99f1-95d014822f53",
+        "order_time": "2024-05-16T16:28:04.519000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200396Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "f10c718b-1eb0-438a-a75d-d5af3c365296",
+        "order_time": "2024-05-16T16:28:17.522000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200464Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "14fcdd54-9e8f-4965-8a2c-827e98326856",
+        "order_time": "2024-05-16T16:28:38.214000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200534Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "42c18a62-ef48-48d5-90fd-9d3f85d51695",
+        "order_time": "2024-05-16T17:00:49.029000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200610Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "21813d25-6552-48a6-83ff-50113d1a85dd",
+        "order_time": "2024-05-16T17:01:02.520000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200641Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ef8c485b-c07a-40f2-add4-253b50f0fd0a",
+        "order_time": "2024-05-16T17:01:19.990000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200700Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "19985f15-ff00-4d4d-9020-59e4ff9ab5c2",
+        "order_time": "2024-05-16T17:01:35.457000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200733Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5958a499-eeea-463e-a1e8-ac6843e42caf",
+        "order_time": "2024-05-16T17:01:46.952000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200793Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "702cdd20-2862-48b8-88f4-ef125e9953d2",
+        "order_time": "2024-05-16T17:09:18.357000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200858Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ce9e1a11-fcbb-4e59-bbdd-cf7c9c96e9ec",
+        "order_time": "2024-05-16T17:09:31.127000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200887Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ee87905e-4ca4-45ea-8dfa-6a56d12dbc9a",
+        "order_time": "2024-05-16T16:36:18.064000Z",
+        "evaluation_time": "2024-12-04T11:54:49.200957Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "e3c43657-1d8c-4bac-83b4-09ef2260e70f",
+        "order_time": "2024-05-16T16:37:14.889000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201043Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "35ebd32d-9ad6-40ab-8821-2ddb45b89cd9",
+        "order_time": "2024-05-16T16:36:56.630000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201113Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "81627cf1-4394-42e6-9a58-7e8aa25d6b29",
+        "order_time": "2024-05-16T16:42:05.830000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201180Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a2607723-17a0-4f49-8d01-280fd89a40c0",
+        "order_time": "2024-05-16T16:42:23.012000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201262Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "217d65a0-c568-41cd-9563-f61600e85ece",
+        "order_time": "2024-05-16T16:42:40.915000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201329Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "b4a69f3c-8d3a-4d99-b11c-21c9bdc14f1f",
+        "order_time": "2024-05-16T17:17:00.360000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201460Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "b0e6a969-e213-42b0-b1ee-dba313432e61",
+        "order_time": "2024-05-16T17:15:46.760000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201578Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "8d7248e2-951f-48d0-9e84-f058d5a804eb",
+        "order_time": "2024-05-16T17:16:05.990000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201657Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "eededb07-e623-4689-9d59-cd2a4eea04e7",
+        "order_time": "2024-05-16T17:16:20.570000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201736Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ae9bec36-35c7-436c-9b99-62c6e61fecc0",
+        "order_time": "2024-05-16T17:16:36.410000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201812Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "dfed2c43-e256-46dc-8f54-86b7c7b5b2bc",
+        "order_time": "2024-05-16T17:26:32.914000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201896Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3c9ad14c-ee0c-4eb5-acfe-db992790cebd",
+        "order_time": "2024-05-16T17:25:58.451000Z",
+        "evaluation_time": "2024-12-04T11:54:49.201971Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "698c206f-e1a4-4e10-ad53-4dd0cf8ebc5a",
+        "order_time": "2024-05-16T17:36:31.470000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202044Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 3
+    },
+    {
+        "order_id": "696608aa-ee49-4329-884a-7b28550a1b46",
+        "order_time": "2024-05-16T17:37:01.780000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202120Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "28c13091-444d-410b-bf87-e362cf8d446a",
+        "order_time": "2024-05-16T17:37:25.460000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202187Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "787f2425-dbcc-4477-89e9-db0adf465290",
+        "order_time": "2024-05-16T17:45:20.300000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202329Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 2
+    },
+    {
+        "order_id": "d20eac17-4e20-4d1a-9983-36e375d66ed4",
+        "order_time": "2024-05-16T17:46:05.975000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202408Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "6601ddd0-3170-4437-a8f7-ef5a060edf5b",
+        "order_time": "2024-05-16T17:46:22.536000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202475Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "59e4b671-4774-4c58-85f8-bc16f7860b50",
+        "order_time": "2024-05-16T17:58:03.120000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202556Z",
+        "f1_score": 0.888888888888889,
+        "true_positives_count": 4,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "54c63cd8-8945-4f27-97fa-2d8dfb2ca025",
+        "order_time": "2024-05-16T17:58:29Z",
+        "evaluation_time": "2024-12-04T11:54:49.202627Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "94a1875d-2db6-4edb-82de-ffccf86c2ca2",
+        "order_time": "2024-05-16T17:58:53.490000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202700Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "587ef344-6f3f-420c-98b8-e4cc1bc044fc",
+        "order_time": "2024-05-16T17:59:05.690000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202776Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1d9af659-82ec-4f2d-bbf6-e16f9b3080d5",
+        "order_time": "2024-05-16T17:59:29.770000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202840Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "6fa17735-b572-43d0-8b5c-ea6a41357e8c",
+        "order_time": "2024-05-16T17:50:52.514000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202910Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f0b5156b-b82c-4074-afd5-dea589d7fd6c",
+        "order_time": "2024-05-16T17:51:32.751000Z",
+        "evaluation_time": "2024-12-04T11:54:49.202977Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f2e9702d-11e9-4daa-ae69-81a35d3d9e56",
+        "order_time": "2024-05-16T18:06:23.149000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203049Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1fe771d6-d917-4793-a9d3-c2e6505cc686",
+        "order_time": "2024-05-16T18:06:44.281000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203115Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5380b904-688c-4015-aab9-7e494f2d4796",
+        "order_time": "2024-05-16T18:06:54.448000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203180Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "aa38d0a1-6ba2-4efe-b11c-6eb62095eef6",
+        "order_time": "2024-05-16T18:12:30.346000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203217Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "91b0e1d9-9d92-42af-ac8d-0e44e71e43a6",
+        "order_time": "2024-05-16T18:12:52.221000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203243Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "35ce8841-4973-4d6c-8dca-bfb7001a9a8b",
+        "order_time": "2024-05-16T18:13:17.276000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203304Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "7118e364-7709-4749-927e-ecfaa79ac9aa",
+        "order_time": "2024-05-17T08:12:17.205000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203379Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f5b78cc7-e6b3-4944-8b32-3e357922bac2",
+        "order_time": "2024-05-17T08:12:34.140000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203449Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a9f25336-83f4-49a9-88a6-39d015b52908",
+        "order_time": "2024-05-17T08:15:38.300000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203521Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3c20592f-c04a-46c4-b3b6-3fe1d1843324",
+        "order_time": "2024-05-17T08:16:09.960000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203601Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8",
+        "order_time": "2024-05-17T08:16:26.340000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203673Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "74962764-12a4-4ef0-84bb-b7a9d98868dd",
+        "order_time": "2024-05-17T08:22:41.106000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203747Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "624c69b6-b244-45a7-b7e5-848131c681ec",
+        "order_time": "2024-05-17T08:22:10.122000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203822Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "e4855aa1-016b-4287-b008-05cca7f36ae9",
+        "order_time": "2024-05-17T08:24:10.946000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203897Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3805f907-6cd6-4193-8746-8f591b494e15",
+        "order_time": "2024-05-17T09:17:43.937000Z",
+        "evaluation_time": "2024-12-04T11:54:49.203967Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "8eb22579-0cdb-4ca4-b6ec-bdd68498e113",
+        "order_time": "2024-05-17T09:15:27.065000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204041Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "76f2dbfe-cd29-436f-a222-82e174daaebf",
+        "order_time": "2024-05-17T09:18:26.182000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204114Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c1581092-f335-4ba3-913a-7052986f9025",
+        "order_time": "2024-05-17T09:15:55.799000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204187Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "6d3ee1dc-8139-4443-a45b-712eb8225688",
+        "order_time": "2024-05-17T09:19:00.140000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204255Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "dc8aee30-be60-43f7-a8be-9288e5af6e39",
+        "order_time": "2024-05-17T08:31:21.933000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204325Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "46fde062-a33d-47af-9701-410d3f4b1a70",
+        "order_time": "2024-05-17T08:31:46.512000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204393Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "709b7d97-464c-44af-bd3f-3799a07295e9",
+        "order_time": "2024-05-17T08:59:28.290000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204460Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "e49d681d-51d8-4c64-95fa-1ab8458f1f19",
+        "order_time": "2024-05-17T08:59:51.460000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204533Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "271e3ee2-b1a6-41f1-a20e-99d33b33f3d8",
+        "order_time": "2024-05-17T09:00:03.600000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204600Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7746d0ba-8ae8-405b-94b4-a48268586eba",
+        "order_time": "2024-05-17T09:05:40.089000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204676Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c51155ff-e7a3-4e81-a3b4-c08b6b8e869f",
+        "order_time": "2024-05-17T09:06:04.129000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204744Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9360715f-c3fe-4183-a172-b725db52ca58",
+        "order_time": "2024-05-17T09:06:09.164000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204813Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "63d62a39-c0e3-4efd-8c71-e0fe5a0cdd7c",
+        "order_time": "2024-05-17T09:34:17.040000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204884Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "bc10fa52-bf5d-4fdf-89c8-d2ab6b44fa8d",
+        "order_time": "2024-05-17T09:33:23.990000Z",
+        "evaluation_time": "2024-12-04T11:54:49.204960Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "45df16b6-382c-443f-bcfc-9b793875394c",
+        "order_time": "2024-05-17T09:33:48.390000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205028Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "cc530e36-addc-4e13-ab3b-4d37560c95ee",
+        "order_time": "2024-05-17T09:34:52.900000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205101Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "fb10987f-20ac-4703-ab67-146a77a6e17c",
+        "order_time": "2024-05-17T09:35:06.063000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205167Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a9ba5a27-907b-4e36-9786-48f864de82e6",
+        "order_time": "2024-05-17T09:42:36.918000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205236Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "2e85cb21-7631-4e9d-9de9-f86322bd3388",
+        "order_time": "2024-05-17T09:43:13.510000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205309Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "56666f9f-53ac-4ab9-b467-2cd9362f5e5c",
+        "order_time": "2024-05-17T09:43:33.118000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205380Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "6bebac31-d4f8-4d72-b382-1cfdc083b73a",
+        "order_time": "2024-05-17T09:47:39.780000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205452Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "0d557b61-8a17-4dfe-bfc0-0dc804f64d86",
+        "order_time": "2024-05-17T09:48:16.480000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205521Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "f510ab53-c7fe-439f-9190-f938a66fd7f7",
+        "order_time": "2024-05-17T09:48:42.440000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205592Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "d6d7b3b8-3309-4d35-bf4d-f561f319c125",
+        "order_time": "2024-05-17T09:54:00.306000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205659Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1d48a071-ab61-47b1-b93b-4c3220500494",
+        "order_time": "2024-05-17T09:53:45.951000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205727Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5e6fea07-c453-4f1d-8199-2fdfb31022f0",
+        "order_time": "2024-05-17T09:54:12.870000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205795Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c71d5e60-1d52-46ab-b7e6-427cbf780e3f",
+        "order_time": "2024-05-18T12:53:37.710000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205829Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "edcb8cb6-0692-4c63-9424-aed51bac5c15",
+        "order_time": "2024-05-18T12:53:49.080000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205888Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f1043785-658b-4523-a014-1de9f54ad0a2",
+        "order_time": "2024-05-18T12:54:04.230000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205920Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3e2b6091-a092-452a-94a0-57a7b0cc1b3b",
+        "order_time": "2024-05-18T12:58:50.156000Z",
+        "evaluation_time": "2024-12-04T11:54:49.205977Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ce3714af-99b4-4350-af2b-99b4d9acd158",
+        "order_time": "2024-05-18T12:59:05.942000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206044Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "8861fe18-58e2-4888-8a83-81bec85aca46",
+        "order_time": "2024-05-18T12:58:43.480000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206110Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "033d2bce-575a-4d2c-a5c5-650c8186a576",
+        "order_time": "2024-05-18T13:09:28.377000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206143Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5cb85aed-f5f6-4c97-aefb-63b11b049863",
+        "order_time": "2024-05-18T13:09:40.884000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206171Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "2d174fc9-6f7c-45ea-a72a-6d8eb5122df8",
+        "order_time": "2024-05-18T13:10:24.899000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206237Z",
+        "f1_score": 0.5,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "eb6c1016-cee6-44d0-9dac-6e8345241ea6",
+        "order_time": "2024-05-18T13:21:32.300000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206310Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "97ac6aa8-bb24-48a3-9363-57b66f81cf4f",
+        "order_time": "2024-05-18T13:21:41.120000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206378Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "4767d76c-162f-4a24-af43-613cd4aac9a3",
+        "order_time": "2024-05-18T13:21:54.570000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206440Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "ab0e664e-9c3e-42d5-91e1-aa9676f72255",
+        "order_time": "2024-05-18T13:22:07.140000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206509Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7cd0129d-2e8d-4e87-9334-20e6d9d80b8d",
+        "order_time": "2024-05-18T13:22:20.160000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206574Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "989d9d4a-e15c-4666-8797-b2c957207246",
+        "order_time": "2024-05-18T13:28:03.770000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206670Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "30e912f2-f2b4-4abf-8441-aefd0299436a",
+        "order_time": "2024-05-18T13:28:21.930000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206744Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "3d85de89-c217-4429-8e20-07247d137018",
+        "order_time": "2024-05-18T13:35:49.080000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206806Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "046a0df5-cafd-4613-b2bb-912d7da67785",
+        "order_time": "2024-05-18T13:36:36.750000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206845Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a9f948b2-4e63-44bb-be49-3f43b118f68d",
+        "order_time": "2024-05-18T13:36:20.980000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206908Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ff233d5f-6ced-415d-9800-7c0287ea7ff5",
+        "order_time": "2024-05-18T13:40:18.290000Z",
+        "evaluation_time": "2024-12-04T11:54:49.206986Z",
+        "f1_score": 1.0,
+        "true_positives_count": 4,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "4e7ed827-455a-4762-b428-a656b3ee4d3b",
+        "order_time": "2024-05-18T13:40:45.540000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207068Z",
+        "f1_score": 1.0,
+        "true_positives_count": 4,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "be2d740a-1e9b-43bc-90c7-c006314d3441",
+        "order_time": "2024-05-18T13:45:14.990000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207099Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "bd1531c8-3764-4bda-b108-d4482f65fafa",
+        "order_time": "2024-05-18T13:45:41.460000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207165Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "98c7472a-864e-4a13-829c-fc0cfa02eaec",
+        "order_time": "2024-05-18T13:48:58.776000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207233Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5c62b3a2-3a3c-463e-8bd6-cee631b1b099",
+        "order_time": "2024-05-18T13:49:21.500000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207304Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "0ba6eab9-4639-447b-a067-bdac88bd13d1",
+        "order_time": "2024-05-18T13:54:25.472000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207334Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a34b6cf6-2053-4a42-b1af-db65b289f224",
+        "order_time": "2024-05-18T13:54:49.888000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207400Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "48ca7651-92f5-4f7b-8323-d342df6a8f93",
+        "order_time": "2024-05-18T13:58:53.580000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207474Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "40a26c60-0d27-4659-b72a-da9b2f32751e",
+        "order_time": "2024-05-18T13:59:25.455000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207542Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7de31a51-6694-4343-90ba-58e3d2762bdc",
+        "order_time": "2024-05-18T14:03:39.430000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207617Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "cfa701cd-2631-400b-a6d7-94d30db95301",
+        "order_time": "2024-05-18T14:04:02.680000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207683Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "8edddfcd-1e52-4770-bf89-7142fe716b14",
+        "order_time": "2024-05-18T14:07:15.140000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207750Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "c693da11-39c6-41ca-9e50-aa42ca6dfda1",
+        "order_time": "2024-05-18T14:07:41.010000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207819Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "96a9954f-dc33-41f9-8c1f-55ab715629ee",
+        "order_time": "2024-05-18T14:40:43.080000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207891Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f5c9b047-9c10-4572-8f6b-40d09efba58b",
+        "order_time": "2024-05-18T14:41:16.190000Z",
+        "evaluation_time": "2024-12-04T11:54:49.207959Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "43bfd931-3605-4f54-a021-c0ca3531968d",
+        "order_time": "2024-05-18T14:41:29.010000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208023Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "2812859a-1337-439e-8d4f-5d272c7f0b79",
+        "order_time": "2024-05-18T14:49:43.910000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208058Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "085b15fb-4a8f-4810-b84c-2f29980402a2",
+        "order_time": "2024-05-18T14:48:53.390000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208121Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "1238d630-743b-45a2-9c0f-2fcfb3f6fe0d",
+        "order_time": "2024-05-18T14:49:31.180000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208200Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "96fc734d-a003-4d28-8a8f-3653c9af18f8",
+        "order_time": "2024-05-18T14:52:51.960000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208270Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "398d1ca6-8b68-40b5-9d61-fac36cd5e859",
+        "order_time": "2024-05-18T14:53:06.830000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208342Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "0f44704f-1247-4a4e-a469-98e8d39e198b",
+        "order_time": "2024-05-18T14:53:21.700000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208410Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "ebd34616-91b7-4d8e-9301-6989bfbbb17f",
+        "order_time": "2024-05-18T14:56:28.219000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208475Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "670acc5c-b321-4f21-8dd8-eb85b04d3376",
+        "order_time": "2024-05-18T14:56:51.212000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208504Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9918ee46-1497-4658-b010-f7197e695d0d",
+        "order_time": "2024-05-18T14:57:04.610000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208565Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "069f14f1-4018-4c6e-9a8c-fa3c5283aac7",
+        "order_time": "2024-05-18T15:05:27.456000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208632Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "964db03f-9340-4fad-9c4a-d56bd6016237",
+        "order_time": "2024-05-18T15:05:12.807000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208704Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9384ec2b-44fe-4cae-9248-a9a7ac1aa554",
+        "order_time": "2024-05-18T15:05:47.495000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208769Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "7135f221-a6c9-437f-84da-d06a7872bdeb",
+        "order_time": "2024-05-18T15:12:42.020000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208798Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "d0725b5c-a281-4044-af96-288295d82980",
+        "order_time": "2024-05-18T15:12:50.360000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208820Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "5230dfbd-5553-42fe-a889-803e5913f9d3",
+        "order_time": "2024-05-18T15:13:05.370000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208843Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7ed70ed7-b194-490b-a961-929e546e035a",
+        "order_time": "2024-05-18T15:24:18.117000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208907Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "0964fbbf-8cd3-41b0-82b0-1cfdd045dd1c",
+        "order_time": "2024-05-18T15:24:42.420000Z",
+        "evaluation_time": "2024-12-04T11:54:49.208980Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "c5c5b37a-f85e-46a1-9dad-09b252c21221",
+        "order_time": "2024-05-18T15:24:54.305000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209010Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "de8ede0b-a85c-4e4a-804b-6fabfcf56188",
+        "order_time": "2024-05-18T15:25:04.560000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209031Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9f64eeed-5c9d-427d-84b8-71bb300568d2",
+        "order_time": "2024-05-18T15:25:11.920000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209087Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "445dcc38-341c-4494-8d36-6dfcc28ebd70",
+        "order_time": "2024-05-18T15:28:34.430000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209150Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "7c16128d-b2c0-4394-a17f-29e170286046",
+        "order_time": "2024-05-18T15:28:44.040000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209214Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "b5b453ca-3d42-493c-8c9f-d3349bdf0377",
+        "order_time": "2024-05-18T15:28:56.530000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209279Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3985fb62-17dc-4eff-a872-13f98d605936",
+        "order_time": "2024-05-18T15:47:22.390000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209349Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a5d04d53-1e12-42e3-b272-92b6762172ed",
+        "order_time": "2024-05-18T15:46:26.680000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209417Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "b495db4e-8245-4fb4-8ab7-706eb77350ca",
+        "order_time": "2024-05-18T15:46:36.106000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209485Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "74eff545-3e65-4603-b8e3-654bfaf14ff0",
+        "order_time": "2024-05-18T16:06:56.180000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209555Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "bf0d073d-821c-4336-9970-cf60ebff8d15",
+        "order_time": "2024-05-18T16:05:52.930000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209621Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "dabac50d-ca3d-4859-85ce-099c46b82659",
+        "order_time": "2024-05-18T16:07:21.080000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209691Z",
+        "f1_score": 0.4,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 3
+    },
+    {
+        "order_id": "00a81de9-d20f-47d0-8465-6d6b81fb18b3",
+        "order_time": "2024-05-18T16:07:37.140000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209753Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "a8f1e091-ffb8-402d-9475-dbc996418ced",
+        "order_time": "2024-05-18T15:54:00.507000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209817Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "551ac8ea-585a-4afa-bbfd-cc1289e06ab3",
+        "order_time": "2024-05-18T15:54:54.686000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209888Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "de9e3757-5260-401e-aecf-67d2749176f4",
+        "order_time": "2024-05-18T15:55:19.120000Z",
+        "evaluation_time": "2024-12-04T11:54:49.209960Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "db23aa8c-3bca-4f85-a20a-60ac9261549d",
+        "order_time": "2024-05-18T16:27:05.310000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210036Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "e9d68f23-b489-4070-b914-f8a8bea4ff31",
+        "order_time": "2024-05-18T16:27:27.650000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210104Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a6eab79e-d21c-42f8-8ada-4f80a9e782d4",
+        "order_time": "2024-05-18T16:28:18.120000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210183Z",
+        "f1_score": 0.888888888888889,
+        "true_positives_count": 4,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "f72169bb-8096-4718-a051-acef097a1e10",
+        "order_time": "2024-05-18T16:37:37.200000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210261Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "1986b4b2-70b7-4868-9854-80f0dfcaf0b7",
+        "order_time": "2024-05-18T16:37:49.100000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210331Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "def57689-68f4-4bce-a4e7-5e8eb8f21423",
+        "order_time": "2024-05-18T16:38:19.410000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210406Z",
+        "f1_score": 0.8571428571428571,
+        "true_positives_count": 3,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "43d88870-f81d-4aa1-8812-0a8e78308930",
+        "order_time": "2024-05-18T16:44:50.280000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210481Z",
+        "f1_score": 1.0,
+        "true_positives_count": 3,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "541cdfcd-da0d-4a5f-948f-8b74a65bb1f2",
+        "order_time": "2024-05-18T16:45:04.570000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210547Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a075e927-5110-4492-b442-7e0b61484bb3",
+        "order_time": "2024-05-18T16:48:49.321000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210616Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "9e11d2cd-0930-4ef6-8a80-068ddf547e50",
+        "order_time": "2024-05-18T16:49:08.941000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210688Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "3a3c8a71-ff57-4e2b-8991-ab9bebc2026f",
+        "order_time": "2024-05-18T16:49:16.039000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210751Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "b4323070-a23d-4c2f-82a7-96891933918c",
+        "order_time": "2024-05-18T16:53:38.634000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210821Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 2
+    },
+    {
+        "order_id": "0769165f-e746-4cb9-8ca9-cf07b1aa0f6a",
+        "order_time": "2024-05-18T16:54:07.882000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210890Z",
+        "f1_score": 0.6666666666666666,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "6e417d47-5ff5-45ea-9bc4-40f14b1a269b",
+        "order_time": "2024-05-18T16:54:31.493000Z",
+        "evaluation_time": "2024-12-04T11:54:49.210978Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "2e183554-cae2-4e66-ae8a-781390e0a95b",
+        "order_time": "2024-05-18T17:04:03.820000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211053Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "aee1e86b-9ea5-46aa-a1ee-6c5bdeef580f",
+        "order_time": "2024-05-18T17:03:30.290000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211118Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "a34db7c5-760d-4bbb-bb70-b3a124a35cf2",
+        "order_time": "2024-05-18T17:04:16.640000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211191Z",
+        "f1_score": 1.0,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "771ad655-cdfc-4ee0-a61e-de900267deb3",
+        "order_time": "2024-05-18T17:04:28.640000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211257Z",
+        "f1_score": 1.0,
+        "true_positives_count": 1,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f1faf665-7115-43f3-92e8-9d1028711733",
+        "order_time": "2024-05-18T17:04:50.242000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211324Z",
+        "f1_score": 0.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 2
+    },
+    {
+        "order_id": "b0b862ef-6c9f-42b9-b647-8986a3917c99",
+        "order_time": "2024-05-18T17:09:15.097000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211398Z",
+        "f1_score": 0.8571428571428571,
+        "true_positives_count": 3,
+        "false_positives_count": 1,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "da743152-627b-41a1-bfd6-f23232ffe294",
+        "order_time": "2024-05-18T17:10:04.147000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211471Z",
+        "f1_score": 0.8,
+        "true_positives_count": 2,
+        "false_positives_count": 0,
+        "false_negatives_count": 1
+    },
+    {
+        "order_id": "4bbe4aff-9326-4ffd-9be4-bf5192698698",
+        "order_time": "2024-05-16T15:36:31.110000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211504Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "6553867d-a881-4fd3-947d-577bfa5a91ca",
+        "order_time": "2024-05-16T15:36:44.200000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211527Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    },
+    {
+        "order_id": "f93e08d5-bea2-4dfe-873f-6e1baf908e3c",
+        "order_time": "2024-05-16T15:37:07.540000Z",
+        "evaluation_time": "2024-12-04T11:54:49.211547Z",
+        "f1_score": 1.0,
+        "true_positives_count": 0,
+        "false_positives_count": 0,
+        "false_negatives_count": 0
+    }
+]
