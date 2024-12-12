@@ -1,38 +1,88 @@
-import plotly.graph_objects as go
+import plotly.express as px
+import dash
+from dash import dcc, html, Input, Output
 import pandas as pd
+import json
+with open('tezzro_jsons/predictions.json') as file:
+    predictions = json.load(file)
 
-# Пример данных
-data = {
-    'order_id': [1, 2, 3, 4, 5],
-    'sku_base_id': ['A101', 'A102', 'A103', 'A104', 'A105'],
-    'score': [85, 90, 75, 88, 95],
-    'time': ['2024-12-01T12:00:00', '2024-12-01T13:00:00', '2024-12-01T14:00:00', '2024-12-01T15:00:00', '2024-12-01T16:00:00']
-}
+with open('tezzro_jsons/evaluations_with_order_cart.json') as file:
+    eval_cart = json.load(file)
+with open('tezzro_jsons/evaluations_with_lod2_transactions.json') as file:
+    eval_lod = json.load(file)
 
-# Преобразуем данные
-df = pd.DataFrame(data)
-df['time'] = pd.to_datetime(df['time'])
+list_orders=[order for order in eval_cart]
+count = len(list_orders)
+total_score=0.0
+for i in list_orders:
+    total_score+=i['f1_score']
 
-# Создаем график
-fig = go.Figure()
+df=pd.DataFrame(list_orders)
+df['order_time']=pd.to_datetime(df['order_time'],format='ISO8601', utc=True)
+df['date']=df['order_time'].dt.date
+df['time']=df['order_time'].dt.date
+df['order_status']=df['f1_score'].apply(lambda x: 'Correct' if x == 1 else 'Incorrect')
+bar_data=df.groupby("date").size().reset_index(name="orders")
 
-# Добавляем точки на график
-fig.add_trace(go.Scatter(
-    x=df['time'],
-    y=df['score'],
-    mode='markers',
-    text=df.apply(lambda row: f"Order ID: {row['order_id']}<br>SKU Base ID: {row['sku_base_id']}", axis=1),
-    hoverinfo='text',  # Всплывающее окно при наведении
-))
+app= dash.Dash(__name__)
 
-# Настройки графика
-fig.update_layout(
-    title="Score vs Time",
-    xaxis_title="Time",
-    yaxis_title="Score",
-    template="plotly_dark",  # Тема
-    hovermode='closest',  # Интерактивность при клике
+app.layout = html.Div([
+    html.H1("Order Statistics"),
+    dcc.Graph(id='barchart'),  # График с количеством заказов по дням
+    dcc.Graph(id='linechart'),# График с деталями для выбранного дня
+    dcc.Graph(id='piechart')
+])
+
+@app.callback(
+    Output('linechart', 'figure'),
+    Input('barchart', 'clickData')
 )
 
-# Показать график
-fig.show()
+def update_linechart(clickData):
+    if clickData is None:
+        return px.line()#return empty graphic
+    selected_date=clickData['points'][0]['x']
+    filtered_data=df[df['date']==pd.to_datetime(selected_date).date()]
+    fig=px.line(filtered_data,x='order_time', y='f1_score',
+                title=f'Orders on {selected_date}',
+                labels={'order_time': 'Time', 'f1_score': 'Score'},
+                markers=True,
+                )
+    return fig
+
+@app.callback(
+    Output('piechart', 'figure'),
+    Input('barchart', 'clickData')
+)
+def update_piechart(clickData):
+    if clickData is None:
+        pie_data=df.groupby('order_status').size().reset_index(name='count')
+        title='Order status distribution(All period)'
+    else:
+        selected_date = clickData['points'][0]['x']
+        filtered_data=df[df['date']==pd.to_datetime(selected_date).date()]
+        pie_data=filtered_data.groupby('order_status').size().reset_index(name='count')
+        title=f'Order_status distribution on {selected_date}'
+    fig=px.pie(
+        pie_data, names='order_status', values='count', title=title,
+        color='order_status',
+        color_discrete_map={'Correct':'green', 'Incorrect':'red'}
+    )
+    return fig
+
+
+@app.callback(
+    Output('barchart', 'figure'),
+    Input('linechart', 'figure')  # Необязательно, если bar chart статичный
+)
+def update_barchart(_):
+    fig = px.bar(bar_data, x='date', y='orders',
+                 title='Orders by Day',
+                 labels={'date': 'Date', 'orders': 'Number of Orders'})
+    return fig
+
+if __name__ == '__main__':
+    app.run_server(debug=True)
+
+
+
